@@ -1,5 +1,10 @@
 # Foodier
-An android application for discovering food and restaurants in Washington in a Tinder-like format. Food's are displayed as a card and you can swipe right or left. Swiping right bookmarks the food item you chose, and swiping left doesn't. For more details on the food item, you can click on the card and get similar restaurants with the food item.
+An android phone application for discovering food and restaurants in Washington in a Tinder-like format.
+
+### How to navigate the app
+* You can swipe right or left on food items. Swiping right saves/bookmarks the item, swiping left does not.
+* For more details, click on the food item.
+* On all screens, you can visit items you've bookmarked, or 'swiped right on'
 
 ### Key features
 * Uses your phones location to calculate distance between restaurant of food item and you.
